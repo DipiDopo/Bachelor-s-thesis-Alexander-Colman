@@ -1,6 +1,9 @@
-implementation.py contains the code for running the Simplex method, column generation and Branch-and-Bound algorithms.
+implementation.py contains the code for running the Simplex method, column generation
+and Branch-and-Bound algorithms.
 
 This text file gives an overview of what can be found in the Python file.
 
-To start, a class ColumnGeneration is created. The attributes of this class and their respective description can be found in the docstring of the init method.
+To start, a class ColumnGeneration is created. The attributes of this class and their
+respective description can be found in the docstring of the init method. The default 
+values of these attributes are 
 
