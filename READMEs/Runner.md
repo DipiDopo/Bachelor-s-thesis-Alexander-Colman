@@ -8,7 +8,7 @@ The first four codes run the example from the Primer.
 The next two run the OneArc and WholePath branching researches (performed on the Primer
 model as well). These offer some results, but the length of the paths is too short to 
 get significant time differences between the results; the relative time difference is 
-always less than 0.01s.
+always less than 0.05s.
 
 The last code is used to generate a random graph (DAG), with randomly assigned costs and 
 time-costs. The computation time research on this generated graph is not that useful
