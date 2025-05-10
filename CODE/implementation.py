@@ -23,7 +23,7 @@ import random
 # acyclic graphs). Note that the complexity of the LP increases exponentially
 # when adding more nodes and arcs.
 
-# The file Alexander_Colman_Bachelorproef_Runner.py can be used to run the
+# The file runner.py can be used to run the
 # code concerning the Primer example.
 
 # Finally, some research was done to compare the computation times of
@@ -33,7 +33,7 @@ import random
 # are incorporated in the LP, which means the computation times are relatively
 # small.
 # To solve this issue, a new LP is necessary; the code in the file
-# Alexander_Colman_Time_Research.py created a model with random costs and
+# research.py created a model with random costs and
 # times between 1 and 20. This model is then used to benchmark the computation
 # times for the 3 branching tactics. These tactics are comprised of:
 # - Branching on 2 arcs, but inserting them in 2 seperate constraints
