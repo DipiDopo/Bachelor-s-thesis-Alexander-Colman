@@ -11,6 +11,11 @@ from scipy.stats import sem
 
 from implementation import ColumnGeneration
 
+
+# This file researches the computation time of three branching tactics on a 
+# self-made graph.
+
+
 def create_LP():
     # Number of steps between source and sink:
     levels = 100  
