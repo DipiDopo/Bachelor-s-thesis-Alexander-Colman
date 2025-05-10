@@ -5,12 +5,12 @@
 from datetime import datetime
 import random
 
-from Alexander_Colman_Bachelorproef_Code import ColumnGeneration, primer, \
+from implementation import ColumnGeneration, primer, \
     BB0, BB1, BB2, BB3, BB4, OneArc, WholePath, random_graph
 
 
 # This script runs the various methods and functions defined in
-# Alexander_Colman_Bachelorproef_Code.py
+# implementation.py
 
 costs, times = primer()
 arcs = list(times.keys())
