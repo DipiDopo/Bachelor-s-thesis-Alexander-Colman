@@ -16,4 +16,6 @@ though, as the found paths are typically very short (even in 500 node-networks) 
 have little branching options. This means the same problem arises as when trying to time 
 branching tactics in the Primer model.
 
-research.py generates 
+Taking some inspiration from the Primer model, a new model was constructed, and its path
+length was always 100 arcs. This graph is used in the thesis and can be found in 
+research.py.
