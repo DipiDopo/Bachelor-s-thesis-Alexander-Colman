@@ -9,7 +9,7 @@ import networkx as nx
 import random
 from scipy.stats import sem
 
-from Alexander_Colman_Bachelorproef_Code import ColumnGeneration
+from implementation import ColumnGeneration
 
 def create_LP():
     # Number of steps between source and sink:
